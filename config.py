@@ -15,12 +15,13 @@ SEARCH_TERMS = [
     "Campus Sosígenes Costa",
     "Campus Jorge Amado",
     "Campus Paulo Freire UFSB",
+    "Campus Maria Felipa"
 ]
 
 # Nomes e cargos da UFSB a serem identificados no texto das publicações.
 # Adicione variações (com e sem título) para melhorar a detecção, ex.:
 # "Fabrício Zanchi", "Reitor Fabrício Berton Zanchi".
-UFSB_PEOPLE = [
+UFSB_PEOPLE = ["Fabrício Berton Zanchi", "reitor Fabrício Berton Zanchi"; "Caroline Rezende Caputo", "Caroline Caputo", "vice-reitora Caroline Caputo", "pró-reitor", "pró-reitora"
     # "Fabrício Berton Zanchi",
     # "Nome Sobrenome",
 ]
