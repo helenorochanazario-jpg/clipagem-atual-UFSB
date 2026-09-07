@@ -22,7 +22,7 @@ SEARCH_TERMS = [
 # Adicione variações (com e sem título) para melhorar a detecção, ex.:
 # "Fabrício Zanchi", "Reitor Fabrício Berton Zanchi".
 UFSB_PEOPLE = [
-    "Fabrício Berton Zanchi", "reitor Fabrício Berton Zanchi"; "Caroline Rezende Caputo", "Caroline Caputo", "vice-reitora Caroline Caputo", "pró-reitor", "pró-reitora"
+    ""
 ]
     # "Fabrício Berton Zanchi",
     # "Nome Sobrenome",
